@@ -1,0 +1,13 @@
+< ./testset/text/chicken.txt
+? Behaviour
+? Terminology
+? cks! Chi
+? Chicken
+?  food, see Chic
+< ./testset/text/herrera.txt
+? an !ll-action
+? o s!pporters 
+? ich is what he
+? en goals
+? ks to supporter
+QUIT

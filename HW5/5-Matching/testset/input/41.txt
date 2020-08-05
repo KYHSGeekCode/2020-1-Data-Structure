@@ -1,0 +1,13 @@
+< ./testset/text/alexferguson.txt
+? or the 
+? eti!es today.
+? o wish Da
+? Swa!se
+? s b!en 
+< ./testset/text/herrera.txt
+? ow !ominees
+? riday.
+? r p!ay
+? he'! doing at t
+?  is what h
+QUIT

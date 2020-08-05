@@ -1,0 +1,13 @@
+< ./testset/text/herrera.txt
+?  of!th
+? specia
+? ed Pla
+?  27 ap
+? s b!en
+< ./testset/text/chicken.txt
+? eti!es
+? spo!ds
+? the! o
+? aviour
+? a comm
+QUIT

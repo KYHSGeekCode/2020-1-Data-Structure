@@ -1,0 +1,17 @@
+< ./testset/text/herrera.txt
+?  Ander w
+? nt is d
+? n u!der
+@ 48
+@ 65
+@ 84
+< ./testset/text/chicken.txt
+? erm!nology
+? neral biology a
+? Soc!al behavio
+? Terminology
+? ith!a popula
+@ 55
+@ 20
+@ 66
+QUIT

@@ -1,0 +1,17 @@
+< ./testset/text/chicken.txt
+? Domestic chick
+? Behaviour
+? Wik!pedia, t
+@ 26
+@ 72
+@ 70
+< ./testset/text/herrera.txt
+? ril!ahead of fe
+? apable of that.
+? layer of the M
+?  th! prize
+? d o! fellow 
+@ 4
+@ 41
+@ 36
+QUIT

@@ -1,0 +1,22 @@
+< ./testset/text/therepublic.txt
+? yag!. You wo
+? ly !atal 
+? were to retor
+? e been gi
+? lov!. Men 
+? s h! a captai
+?  him in tor
+? ice; b
+? o not underst
+? oth!r ways?
+@ 87
+@ 55
+@ 10
+@ 58
+@ 49
+@ 85
+@ 63
+@ 95
+@ 91
+@ 23
+QUIT

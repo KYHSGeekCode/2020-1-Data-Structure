@@ -1,0 +1,13 @@
+< ./testset/text/exponential.txt
+? 011574
+? 188528
+? 696!62
+? 118569
+? 477041
+< ./testset/text/chicken.txt
+? an foo
+? see Ch
+? the ma
+? Deep S
+? akes o
+QUIT

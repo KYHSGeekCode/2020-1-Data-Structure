@@ -1,0 +1,17 @@
+< ./testset/text/alexferguson.txt
+? ing! I
+?  the c
+? 'm !us
+@ 0
+@ 95
+@ 78
+< ./testset/text/herrera.txt
+? pearanc
+? r of the Month 
+? s cast by fa
+? d is certain A
+? lf. It
+@ 83
+@ 27
+@ 63
+QUIT

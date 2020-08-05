@@ -1,0 +1,17 @@
+< ./testset/text/alexferguson.txt
+?  It's been
+? a 2!1 win over
+?  ge! to the co
+@ 98
+@ 64
+@ 18
+< ./testset/text/exponential.txt
+? 67010615094
+? 462!67137794487
+? 052!12242587
+? 87039207
+? 5551948
+@ 96
+@ 66
+@ 3
+QUIT

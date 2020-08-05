@@ -1,0 +1,22 @@
+< ./testset/text/therepublic.txt
+?  perve
+? maiden in the
+?  victim to 
+? to the
+? m always
+? , as I concei
+? e art of 
+?  th! argumen
+? s; !houg
+?  th!nk th
+@ 94
+@ 8
+@ 18
+@ 38
+@ 50
+@ 79
+@ 70
+@ 93
+@ 67
+@ 78
+QUIT

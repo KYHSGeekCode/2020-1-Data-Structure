@@ -1,0 +1,22 @@
+< ./testset/text/therepublic.txt
+? breaks down
+? ; t!is can no 
+? I gone from
+? f c!urse. 
+? m ungratefu
+? and injustice
+?  ne!essar
+? gam! of draugh
+? de with hands
+?  any o
+@ 58
+@ 52
+@ 88
+@ 66
+@ 39
+@ 95
+@ 25
+@ 92
+@ 44
+@ 73
+QUIT

@@ -1,0 +1,13 @@
+< ./testset/text/alexferguson.txt
+? to now
+? , all 
+? , you 
+? ll clu
+? ment d
+< ./testset/text/herrera.txt
+? errera
+? a o! M
+?  said.
+?  and i
+? hy fan
+QUIT

@@ -1,0 +1,13 @@
+< ./testset/text/alexferguson.txt
+?  th! p
+? staff,
+? od !y 
+? got ab
+?  in fu
+< ./testset/text/herrera.txt
+? t by f
+?  of ti
+?  with 
+? said. 
+? ays on
+QUIT

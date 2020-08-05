@@ -1,0 +1,17 @@
+< ./testset/text/herrera.txt
+? xclusive 
+? the Month aw
+?  an all-action 
+@ 9
+@ 7
+@ 26
+< ./testset/text/chicken.txt
+? ogy!and habita
+? he dance
+? s as pu
+? ped!a, the fre
+? Behaviour
+@ 77
+@ 88
+@ 45
+QUIT

@@ -1,0 +1,13 @@
+< ./testset/text/exponential.txt
+? 104!68607
+? 261!5600433
+? 78838638744396
+? 975!99
+? 285336
+< ./testset/text/chicken.txt
+? f the United 
+? udies have po
+? eci!s, see Red 
+? se in the hen
+? n's. The iden
+QUIT

@@ -1,0 +1,22 @@
+< ./testset/text/therepublic.txt
+? ntentious S
+? ch, he i
+?  fulfi
+? bus!ness. 
+? ustice is not
+? inevitab
+? er him, and not
+? and!in w
+? dea of
+? ho attribu
+@ 67
+@ 64
+@ 70
+@ 39
+@ 65
+@ 27
+@ 99
+@ 56
+@ 22
+@ 58
+QUIT

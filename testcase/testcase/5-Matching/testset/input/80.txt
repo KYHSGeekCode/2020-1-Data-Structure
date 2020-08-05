@@ -1,0 +1,17 @@
+< ./testset/text/chicken.txt
+? and (also
+? glefowl. As on
+? biguatio
+@ 52
+@ 21
+@ 85
+< ./testset/text/exponential.txt
+? 82916741970151
+? 3971930
+? 679!20
+? 437!43698
+? 446084271616
+@ 23
+@ 71
+@ 1
+QUIT

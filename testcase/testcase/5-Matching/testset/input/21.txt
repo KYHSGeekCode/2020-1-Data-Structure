@@ -1,0 +1,13 @@
+< ./testset/text/alexferguson.txt
+? h spee
+? oda! h
+?  mi!d,
+? just t
+? gus!n'
+< ./testset/text/exponential.txt
+? 158!68
+? 665277
+? 681003
+? 481847
+? 556068
+QUIT

@@ -1,0 +1,13 @@
+< ./testset/text/chicken.txt
+? young are
+? ee !ed 
+? d s!metimes 
+?  seeds, ins
+? he hen
+< ./testset/text/exponential.txt
+? 124665201030592
+? 93287091
+? 589!979
+? 284!882
+? 593!536073162
+QUIT

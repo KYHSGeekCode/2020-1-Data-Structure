@@ -1,0 +1,22 @@
+< ./testset/text/therepublic.txt
+?  and, like Ad
+? om and vi
+? he had
+? very o
+? nd, I replie
+? e i! mistaken?
+? fails them, an
+? od,' as they
+? e said. 
+?  the range eith
+@ 6
+@ 92
+@ 85
+@ 0
+@ 96
+@ 50
+@ 44
+@ 84
+@ 30
+@ 80
+QUIT

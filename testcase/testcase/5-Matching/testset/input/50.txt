@@ -1,0 +1,13 @@
+< ./testset/text/herrera.txt
+? with Her
+? ank! to supp
+? ayer of the Mon
+? rrera on
+? hris Smal
+< ./testset/text/exponential.txt
+? 052!9529
+? 6998606636583
+? 5440575
+? 609!1680751
+? 47287039207643
+QUIT

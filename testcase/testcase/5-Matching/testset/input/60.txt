@@ -1,0 +1,17 @@
+< ./testset/text/herrera.txt
+? e Month aw
+? on !rida
+? rera on ManU
+@ 83
+@ 23
+@ 69
+< ./testset/text/alexferguson.txt
+?  to pay t
+?  Scholes, w
+? , n!t just th
+? hile, and
+?  have been t
+@ 1
+@ 23
+@ 91
+QUIT

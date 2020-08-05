@@ -1,0 +1,17 @@
+< ./testset/text/alexferguson.txt
+?  remind 
+?  th!s football
+?  those last-m
+@ 73
+@ 38
+@ 68
+< ./testset/text/exponential.txt
+? 002!60131
+? 080029687386911
+? 16681515828843
+? 493!0280401867
+? 329994213
+@ 32
+@ 83
+@ 96
+QUIT

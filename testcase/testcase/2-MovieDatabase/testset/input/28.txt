@@ -1,0 +1,22 @@
+        INSERT        %HISTORY%%THE 13TH WARRIOR%     
+INSERT%HOR   ROR% %T  HE   RUND OWN%
+INSERT %HORROR%%THE RUNDOWN%         
+        INSERT%S  P ORTING  EV  ENT%    %H ER O%      
+INSERT   %HISTORY%       %RUSH HOUR 2%
+INSERT  %EROTIC%         %HEAT% 
+PRINT
+        INSERT%DOCUMENTARY%%CONAN THE BARBARIAN%   
+ INSERT%H  ISTOR Y%  %T H E  13T   H   WARRIOR%     
+INSERT%SPORTING EVENT% %HERO%
+        INSERT       %ERO TIC%       %HE A T%      
+INSERT%ADVE  NTURE%       %CO BRA%    
+   INSERT   %DOC  UME NT ARY%%CO  N A N THE    B ARB ARIAN%      
+PRINT       
+PRINT     
+    INSERT       %H ISTORY%      %RU  SH  HOUR 2% 
+INSERT       %ADVENTURE%         %FEARLESS%        
+INSERT%A   DVENT URE%  %FEA RL E SS%
+      PRINT     
+INSERT%ADVENTURE%         %COBRA%
+PRINT
+QUIT

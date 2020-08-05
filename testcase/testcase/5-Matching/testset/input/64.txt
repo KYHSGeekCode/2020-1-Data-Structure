@@ -1,0 +1,17 @@
+< ./testset/text/alexferguson.txt
+? irement does
+? d in f
+? rewell speec
+@ 87
+@ 70
+@ 24
+< ./testset/text/herrera.txt
+?  for a good few
+? onth award f
+? following his 
+? ted Player of 
+? ominees Ash
+@ 6
+@ 5
+@ 94
+QUIT

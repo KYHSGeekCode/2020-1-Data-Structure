@@ -1,0 +1,22 @@
+< ./testset/text/therepublic.txt
+? ear! and
+? ean!ng of Sim
+? ur enqu
+? entionall
+? Tha! is 
+? y l!ys h
+? ibl! but might 
+? s, per
+? , like the 
+?  own drama
+@ 48
+@ 6
+@ 98
+@ 79
+@ 86
+@ 84
+@ 85
+@ 24
+@ 47
+@ 95
+QUIT

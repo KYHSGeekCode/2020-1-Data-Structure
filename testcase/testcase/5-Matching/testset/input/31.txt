@@ -1,0 +1,13 @@
+< ./testset/text/alexferguson.txt
+? e expectation 
+? tood by
+? e p!oper way - 
+? rguson's far
+? I'm going 
+< ./testset/text/exponential.txt
+? 2192011
+? 893027617
+? 966967627724
+? 004!1644
+? 38741754923071
+QUIT

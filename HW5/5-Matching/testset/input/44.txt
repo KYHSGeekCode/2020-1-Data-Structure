@@ -1,0 +1,13 @@
+< ./testset/text/exponential.txt
+? 54705057775143
+? 154688
+? 754!25459937691
+? 456!84401873
+? 0025994
+< ./testset/text/alexferguson.txt
+? f my life with 
+? u a!ain from 
+? ll part 
+? to Paul Schol
+? oing home, we
+QUIT

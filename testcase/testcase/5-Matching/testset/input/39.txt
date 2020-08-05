@@ -1,0 +1,13 @@
+< ./testset/text/chicken.txt
+? d to m
+? ance"), often
+? Cou!tshi
+? ses! see
+? lus!gallus do
+< ./testset/text/exponential.txt
+? 975406210
+? 80649882
+? 833799801612
+? 709147607
+? 833088112912
+QUIT

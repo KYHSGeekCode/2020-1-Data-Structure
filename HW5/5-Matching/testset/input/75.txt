@@ -1,0 +1,17 @@
+< ./testset/text/herrera.txt
+? or April
+?  th! s
+?  sa!d. "I
+@ 71
+@ 87
+@ 59
+< ./testset/text/alexferguson.txt
+? sta!f, not just
+? h y!u a good re
+? y h!ve r
+? ng staf
+? ashion. We
+@ 41
+@ 58
+@ 85
+QUIT

@@ -1,0 +1,17 @@
+< ./testset/text/alexferguson.txt
+? est playe
+? ust the medic
+? b. I'll be able
+@ 82
+@ 25
+@ 42
+< ./testset/text/herrera.txt
+? de four
+? a b!t 
+?  fo! a good f
+?  th! Mo
+? n t! Herr
+@ 44
+@ 81
+@ 40
+QUIT

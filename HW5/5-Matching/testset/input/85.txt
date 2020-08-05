@@ -1,0 +1,22 @@
+< ./testset/text/therepublic.txt
+? ehe!sio
+? ore than 
+? ut to be
+? rel!giou
+? mper is quite
+? ch he says an
+? he !ick
+? f the 
+? mpts to dete
+? I should
+@ 38
+@ 54
+@ 41
+@ 80
+@ 18
+@ 30
+@ 97
+@ 83
+@ 95
+@ 79
+QUIT

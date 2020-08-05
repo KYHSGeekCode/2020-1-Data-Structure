@@ -1,0 +1,17 @@
+< ./testset/text/herrera.txt
+? nte!vie
+? ment - and Unit
+? improving. T
+@ 4
+@ 48
+@ 39
+< ./testset/text/chicken.txt
+? r t!eatr
+?  re!irect he
+? sticus" and "
+? dia, the f
+?  sm!ll rocks or
+@ 27
+@ 15
+@ 11
+QUIT

@@ -1,0 +1,22 @@
+< ./testset/text/therepublic.txt
+? nd how 
+?  special
+? at the be
+? pon!ent in th
+? debt, --that is
+? y a!e.
+? y of how 
+? the Law
+? works of 
+? ntly than a
+@ 33
+@ 41
+@ 94
+@ 52
+@ 47
+@ 65
+@ 79
+@ 36
+@ 37
+@ 10
+QUIT

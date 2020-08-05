@@ -1,0 +1,17 @@
+< ./testset/text/herrera.txt
+? ok out fo
+? n ManUtd.com on
+?  people d
+@ 74
+@ 88
+@ 21
+< ./testset/text/chicken.txt
+?  of the Unite
+? dly after
+? s t! hi
+? ale!chicks may 
+? ocial b
+@ 73
+@ 77
+@ 14
+QUIT

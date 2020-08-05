@@ -1,0 +1,22 @@
+< ./testset/text/therepublic.txt
+? ire whether 
+? say! in 
+? und out, and
+? philosop
+? d Adei
+? of deeds done h
+? re !han h
+? e the s
+? r e!act use 
+? ome inv
+@ 90
+@ 33
+@ 39
+@ 88
+@ 97
+@ 12
+@ 96
+@ 1
+@ 17
+@ 68
+QUIT

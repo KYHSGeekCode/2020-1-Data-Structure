@@ -1,0 +1,13 @@
+< ./testset/text/alexferguson.txt
+? ll of 
+? meback
+? n a fa
+? mind y
+? he !os
+< ./testset/text/herrera.txt
+? for an
+? ew yea
+? e i!te
+? of the
+? all ou
+QUIT

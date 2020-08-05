@@ -1,0 +1,22 @@
+< ./testset/text/therepublic.txt
+? d Cleitophon,
+? he !ore arg
+? ned to
+?  re!koned am
+? icu!ous was 
+? terest?
+? he sake of use 
+? tru! ru
+? ey !ould hav
+?  dare 
+@ 49
+@ 20
+@ 77
+@ 88
+@ 23
+@ 47
+@ 65
+@ 22
+@ 98
+@ 44
+QUIT

@@ -1,0 +1,22 @@
+< ./testset/text/therepublic.txt
+? m --that is to
+? t to provide fo
+? e two f
+? ve !he tro
+? ppo!e 
+? pe,!as
+?  th!y injured 
+? by sheer
+? of the 
+? e to adopt your
+@ 23
+@ 75
+@ 5
+@ 95
+@ 10
+@ 0
+@ 69
+@ 97
+@ 97
+@ 51
+QUIT

@@ -1,0 +1,13 @@
+< ./testset/text/chicken.txt
+?  more 
+? nol!gy
+?  of!yo
+? hic!en
+? ipe!ia
+< ./testset/text/alexferguson.txt
+? hem ra
+? se pla
+? ll spe
+? farewe
+? n a!le
+QUIT

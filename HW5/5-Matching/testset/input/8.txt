@@ -1,0 +1,12 @@
+< ./testset/text/chicken.txt
+? ermino
+? hicken
+? our!sh
+? cia! b
+? ticate
+? , Euro
+? hav!ou
+? bli!hi
+? abitat
+? min!lo
+QUIT

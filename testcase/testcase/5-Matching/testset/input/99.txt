@@ -1,0 +1,22 @@
+< ./testset/text/therepublic.txt
+? te of his,
+?  th! inwa
+?  that the 
+? ously protec
+? rtu!es than of
+? sic!an or 
+?  to wear a fa
+?  in!me
+? ound, an
+? other r
+@ 98
+@ 68
+@ 90
+@ 98
+@ 74
+@ 47
+@ 12
+@ 15
+@ 7
+@ 67
+QUIT

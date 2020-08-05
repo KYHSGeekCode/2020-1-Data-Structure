@@ -1,0 +1,13 @@
+< ./testset/text/alexferguson.txt
+? y staf
+? e jers
+? ust go
+? d i! f
+? reates
+< ./testset/text/exponential.txt
+? 624705
+? 406!95
+? 919!12
+? 888654
+? 233639
+QUIT

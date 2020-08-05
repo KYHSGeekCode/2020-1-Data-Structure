@@ -1,0 +1,13 @@
+< ./testset/text/exponential.txt
+? 141!39477312
+? 140!61
+? 9016269
+? 427!465491
+? 279490433729908
+< ./testset/text/herrera.txt
+? s: "Tha
+? ani!rd
+?  United fans 
+? hea! of fell
+?  a long-term hi
+QUIT

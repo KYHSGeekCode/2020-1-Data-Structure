@@ -1,0 +1,13 @@
+< ./testset/text/herrera.txt
+? xclusive
+? e Spani
+?  the move, maki
+? in 27 appeara
+? really 
+< ./testset/text/alexferguson.txt
+? to !anc
+?  bu!bling, I
+? st !oing to ram
+? ret!res 
+? Here is h
+QUIT

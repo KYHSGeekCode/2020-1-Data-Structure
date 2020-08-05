@@ -1,0 +1,17 @@
+< ./testset/text/exponential.txt
+? 898790676503
+? 9451272
+? 1828182
+@ 44
+@ 89
+@ 29
+< ./testset/text/alexferguson.txt
+? r Alex Ferg
+? ed. No
+? nd I want to sa
+?  Alex Fergu
+? e playe
+@ 23
+@ 79
+@ 22
+QUIT

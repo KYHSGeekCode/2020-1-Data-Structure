@@ -1,0 +1,17 @@
+< ./testset/text/exponential.txt
+? 668082264800
+? 990126068187049
+? 61710550
+@ 34
+@ 71
+@ 65
+< ./testset/text/chicken.txt
+? Courtship
+?  the free enc
+?  refer
+? Beh!viour
+?  young mice.
+@ 32
+@ 7
+@ 25
+QUIT

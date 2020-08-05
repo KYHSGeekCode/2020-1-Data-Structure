@@ -1,0 +1,22 @@
+< ./testset/text/therepublic.txt
+? to los
+? ay be wr
+? he !atriarc
+? ther l
+? e in inventin
+? sed a 
+? e unjus
+?  fa!l of
+? , as yo
+? ay. The 
+@ 28
+@ 10
+@ 49
+@ 20
+@ 30
+@ 65
+@ 8
+@ 28
+@ 47
+@ 14
+QUIT

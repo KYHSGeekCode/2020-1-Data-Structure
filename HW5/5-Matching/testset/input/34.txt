@@ -1,0 +1,13 @@
+< ./testset/text/chicken.txt
+? Chicken
+? ee encycl
+? en !s human fo
+? dia! the 
+?  breeds,
+< ./testset/text/herrera.txt
+? head of fello
+? ook!him 
+?  Un!ted 
+? rrera 
+? as now scor
+QUIT

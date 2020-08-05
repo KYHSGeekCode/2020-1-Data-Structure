@@ -1,0 +1,13 @@
+< ./testset/text/alexferguson.txt
+? o the players.
+? re is his pos
+? l speech to 
+? has!ev
+? ow !ou'll be a
+< ./testset/text/herrera.txt
+? oal!show in
+? r Aston Vill
+?  of the
+? 3 p!r ce
+?  Pl!yer of 
+QUIT

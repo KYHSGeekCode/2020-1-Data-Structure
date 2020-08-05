@@ -1,0 +1,17 @@
+< ./testset/text/alexferguson.txt
+? d I kn
+? an the end
+? ant!to pay 
+@ 51
+@ 9
+@ 23
+< ./testset/text/herrera.txt
+? ra wins
+?  ve!y much
+? nited 
+? a l!ng-t
+? ction mid
+@ 24
+@ 63
+@ 14
+QUIT

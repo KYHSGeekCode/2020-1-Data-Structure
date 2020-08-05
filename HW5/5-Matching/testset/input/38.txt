@@ -1,0 +1,13 @@
+< ./testset/text/exponential.txt
+? 769!316685
+? 595630738132
+? 558417
+? 8188159304
+? 01157383418
+< ./testset/text/alexferguson.txt
+? ing!me
+? ters, it's all 
+? ff, the players
+? en Fletcher a s
+? me, th
+QUIT

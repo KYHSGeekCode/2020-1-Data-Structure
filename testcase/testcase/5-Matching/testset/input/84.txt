@@ -1,0 +1,22 @@
+< ./testset/text/therepublic.txt
+? d t!at hu
+? : and how re
+? here you are
+? y, !e replied
+? he first 
+? ch Thrasymachu
+? e of this p
+?  so!disposed I 
+? s, I kno
+? ITOPHON
+@ 0
+@ 35
+@ 45
+@ 8
+@ 69
+@ 22
+@ 64
+@ 52
+@ 88
+@ 62
+QUIT

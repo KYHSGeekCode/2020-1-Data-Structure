@@ -1,0 +1,17 @@
+< ./testset/text/exponential.txt
+? 516467702
+? 71776359
+? 78230380965678
+@ 3
+@ 83
+@ 43
+< ./testset/text/alexferguson.txt
+? ide for a 
+? ke to wish Dar
+? far!well speech
+?  want to say
+? mes here, the
+@ 67
+@ 21
+@ 73
+QUIT

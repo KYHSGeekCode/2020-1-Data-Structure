@@ -1,0 +1,22 @@
+< ./testset/text/therepublic.txt
+? is the reality
+? e put the proo
+?  ab!e, neve
+? usician by 
+? nt appears 
+? e non-physici
+? hought th
+?  all ex
+? irtue 
+? hra!ym
+@ 94
+@ 5
+@ 37
+@ 61
+@ 81
+@ 22
+@ 42
+@ 9
+@ 15
+@ 72
+QUIT

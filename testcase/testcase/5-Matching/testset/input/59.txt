@@ -1,0 +1,17 @@
+< ./testset/text/chicken.txt
+? al !eha
+? Behavio
+? , the free en
+@ 6
+@ 57
+@ 60
+< ./testset/text/alexferguson.txt
+? rse! you'r
+? f Manc
+? tha! suffer wi
+? m all th
+? ith!the cl
+@ 35
+@ 90
+@ 10
+QUIT

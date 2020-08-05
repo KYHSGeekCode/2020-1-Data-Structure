@@ -1,0 +1,17 @@
+< ./testset/text/exponential.txt
+? 054!5711337
+? 323!4036389313
+? 42586398772754
+@ 86
+@ 30
+@ 46
+< ./testset/text/herrera.txt
+? n F!iday.
+? ked him since
+? ead of fell
+? d o! fellow 
+?  Month
+@ 47
+@ 49
+@ 92
+QUIT

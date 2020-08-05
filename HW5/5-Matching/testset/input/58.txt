@@ -1,0 +1,17 @@
+< ./testset/text/alexferguson.txt
+? oing to
+?  his pos
+? t w!nt 
+@ 57
+@ 55
+@ 89
+< ./testset/text/herrera.txt
+?  fellow nomine
+?  Herrera
+? nth award f
+? ted Pl
+? int!rv
+@ 78
+@ 93
+@ 31
+QUIT

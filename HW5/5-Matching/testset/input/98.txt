@@ -1,0 +1,22 @@
+< ./testset/text/therepublic.txt
+? -ph!sici
+? t m!y be impr
+? about thei
+? ocrates,
+?  of medicine?
+?  sa!d, for he 
+? f one mad 
+? s k!owing a
+? are!added. 
+?  ar! freed
+@ 46
+@ 17
+@ 51
+@ 40
+@ 29
+@ 69
+@ 79
+@ 80
+@ 79
+@ 83
+QUIT

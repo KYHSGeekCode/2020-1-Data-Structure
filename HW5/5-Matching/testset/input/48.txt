@@ -1,0 +1,13 @@
+< ./testset/text/exponential.txt
+? 4514058940
+? 60921680
+? 0514771379
+? 052758333379
+? 7998456926199
+< ./testset/text/chicken.txt
+? Terminology
+?  da!ce"), 
+? llus gallus dom
+? Adding 
+? red!tor a
+QUIT

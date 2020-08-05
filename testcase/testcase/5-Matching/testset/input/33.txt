@@ -1,0 +1,13 @@
+< ./testset/text/herrera.txt
+? errera wins Pla
+? ns have alway
+?  our fa
+? lusive
+? d P!ayer of t
+< ./testset/text/chicken.txt
+? nd !ounger fem
+?  16!acc
+? hen's.
+? sing of you
+? logy an
+QUIT

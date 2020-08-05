@@ -1,0 +1,17 @@
+< ./testset/text/chicken.txt
+? ken! ma
+? ourtship
+? ino!ogy
+@ 86
+@ 5
+@ 70
+< ./testset/text/exponential.txt
+? 7125406
+? 85509666618
+? 891499348841
+? 620!5498294498
+? 53822353
+@ 61
+@ 94
+@ 38
+QUIT

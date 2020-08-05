@@ -1,0 +1,17 @@
+< ./testset/text/exponential.txt
+? 555!94866850800
+? 58859728665945
+? 385553386272
+@ 46
+@ 26
+@ 30
+< ./testset/text/herrera.txt
+?  out for an e
+?  Villa
+? yer of the Mont
+?  because he h
+? ly good
+@ 12
+@ 46
+@ 49
+QUIT

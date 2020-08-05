@@ -1,0 +1,17 @@
+< ./testset/text/exponential.txt
+? 703!03540
+? 63963370
+? 826!178
+@ 9
+@ 78
+@ 9
+< ./testset/text/alexferguson.txt
+? fe !ith th
+? ebacks, even t
+? m all the Fe
+?  greatest
+?  thank yo
+@ 6
+@ 10
+@ 75
+QUIT

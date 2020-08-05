@@ -1,0 +1,17 @@
+< ./testset/text/chicken.txt
+? ial behavi
+? han!24 
+?  free e
+@ 80
+@ 90
+@ 18
+< ./testset/text/exponential.txt
+? 215!4079
+? 99314011
+? 17027618
+? 5925126994
+? 182!262
+@ 11
+@ 55
+@ 15
+QUIT

@@ -1,0 +1,22 @@
+< ./testset/text/therepublic.txt
+? more th
+? s d!ne 
+? at !t is 
+? l be of 
+? pieces 
+? claimed o
+? er repe
+?  kept 
+? e range
+?  of his
+@ 75
+@ 83
+@ 43
+@ 83
+@ 45
+@ 66
+@ 3
+@ 74
+@ 97
+@ 53
+QUIT

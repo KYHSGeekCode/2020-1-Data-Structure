@@ -1,0 +1,13 @@
+< ./testset/text/herrera.txt
+? ace!for himself
+? or !n exclusi
+? anU!d.com
+? e he has l
+? for!a go
+< ./testset/text/exponential.txt
+? 7192804
+? 985589448969709
+? 816!5983
+? 995957496696
+? 527165770004
+QUIT

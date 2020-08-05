@@ -1,0 +1,13 @@
+< ./testset/text/alexferguson.txt
+?  meant
+? st of 
+? spe!ch
+? itl! w
+?  th! c
+< ./testset/text/exponential.txt
+? 548!61
+? 483562
+? 768457
+? 558944
+? 381!51
+QUIT

@@ -1,0 +1,17 @@
+< ./testset/text/alexferguson.txt
+? e w!th th
+? lie!able; one 
+? anage 
+@ 41
+@ 97
+@ 57
+< ./testset/text/chicken.txt
+? er subspeci
+? d chicks and 
+? a, the free enc
+? nd to n
+? y and ha
+@ 10
+@ 57
+@ 35
+QUIT

@@ -1,0 +1,17 @@
+< ./testset/text/exponential.txt
+? 178767539
+? 61509424345
+? 495!51
+@ 62
+@ 23
+@ 27
+< ./testset/text/chicken.txt
+? Chicken
+? n, died
+? cking orde
+? term yardbird
+? eneral b
+@ 56
+@ 89
+@ 85
+QUIT

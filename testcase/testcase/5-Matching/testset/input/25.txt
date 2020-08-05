@@ -1,0 +1,13 @@
+< ./testset/text/alexferguson.txt
+? s been
+? Old!Tr
+? n's fa
+? ve got
+? have b
+< ./testset/text/herrera.txt
+? a want
+? awa!d 
+? on Man
+? . B!ya
+?  and r
+QUIT

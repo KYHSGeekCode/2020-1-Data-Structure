@@ -1,0 +1,17 @@
+< ./testset/text/alexferguson.txt
+? aff, not just 
+? ou. Yo
+?  I'd l
+@ 7
+@ 21
+@ 3
+< ./testset/text/herrera.txt
+? pable of that. 
+?  for votin
+? ast by
+?  award for Apri
+?  really pin d
+@ 71
+@ 29
+@ 61
+QUIT

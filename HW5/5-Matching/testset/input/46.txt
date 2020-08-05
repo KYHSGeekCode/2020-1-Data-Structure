@@ -1,0 +1,13 @@
+< ./testset/text/exponential.txt
+? 36866855516467
+? 133!594279
+? 2893058091
+? 070475
+? 1311474137441
+< ./testset/text/herrera.txt
+? es cast by fan
+? re goals - 
+? sho! i
+?  award for A
+? muc! to
+QUIT

@@ -1,0 +1,22 @@
+< ./testset/text/therepublic.txt
+? professes to k
+? tue! nor 
+? e r!pl
+? for!Liberty,
+? a l!ughi
+? t -!is 
+? n produce co
+? oul! say n
+? ustice is 
+?  to the argum
+@ 31
+@ 53
+@ 52
+@ 87
+@ 44
+@ 39
+@ 89
+@ 51
+@ 26
+@ 54
+QUIT

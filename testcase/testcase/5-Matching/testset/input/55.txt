@@ -1,0 +1,17 @@
+< ./testset/text/chicken.txt
+? en !nd 
+? rees (where th
+?  sn!kes or 
+@ 93
+@ 83
+@ 28
+< ./testset/text/alexferguson.txt
+?  a !antastic 
+? I'l! be 
+? re of what this
+? n a!le to man
+? d anno
+@ 48
+@ 4
+@ 24
+QUIT

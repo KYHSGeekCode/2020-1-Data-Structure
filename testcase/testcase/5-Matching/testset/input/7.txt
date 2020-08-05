@@ -1,0 +1,12 @@
+< ./testset/text/chicken.txt
+? cke!s 
+? y B!, 
+?  ha!it
+?  resul
+? cts!an
+? . Howe
+?  and s
+?  on th
+?  are o
+? dom!st
+QUIT

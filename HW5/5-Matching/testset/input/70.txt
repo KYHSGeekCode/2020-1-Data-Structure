@@ -1,0 +1,17 @@
+< ./testset/text/herrera.txt
+?  the Mon
+?  an! is among 
+?  ou! for an e
+@ 53
+@ 69
+@ 42
+< ./testset/text/exponential.txt
+? 541878846536
+? 037886069008072
+? 1779574540
+? 6003735
+? 61710550213
+@ 14
+@ 6
+@ 62
+QUIT

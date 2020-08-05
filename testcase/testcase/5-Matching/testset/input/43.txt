@@ -1,0 +1,13 @@
+< ./testset/text/chicken.txt
+? Ter!inology
+? iginating in
+? age of 1
+? urce o
+? din!s.
+< ./testset/text/exponential.txt
+? 227717
+? 798227680653665
+? 869398496465105
+? 572!87460210053
+? 900!30194778880
+QUIT

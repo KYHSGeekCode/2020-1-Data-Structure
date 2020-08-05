@@ -1,0 +1,22 @@
+< ./testset/text/therepublic.txt
+? nd who
+?  but of Greek 
+? hether
+? has!the f
+? sop!y too, man
+? ivi!g at any d
+? e able t
+? d y!u hav
+? ither the gra
+? said, Thrasy
+@ 14
+@ 45
+@ 26
+@ 56
+@ 8
+@ 52
+@ 18
+@ 13
+@ 71
+@ 65
+QUIT

@@ -1,0 +1,12 @@
+< ./testset/text/herrera.txt
+? the mo
+? n all-
+? y Youn
+? ing!hi
+? onth a
+?  he's 
+?  Herre
+?  to gi
+? n a!yb
+? d. !ry
+QUIT

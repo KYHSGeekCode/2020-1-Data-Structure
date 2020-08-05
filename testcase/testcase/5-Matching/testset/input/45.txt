@@ -1,0 +1,13 @@
+< ./testset/text/chicken.txt
+? Terminology
+? Chicken
+?  a response in 
+? cial behaviou
+? nd or n
+< ./testset/text/alexferguson.txt
+? 1 grandchi
+?  players this
+? Ferguson's fare
+? players this
+? goo! you a
+QUIT

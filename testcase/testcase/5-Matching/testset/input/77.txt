@@ -1,0 +1,17 @@
+< ./testset/text/exponential.txt
+? 158029095863138
+? 893!4124796
+? 328!2794
+@ 96
+@ 64
+@ 47
+< ./testset/text/chicken.txt
+? Cou!tship
+? oks!(disambi
+? tance flig
+? ited St
+? ll"! the rooste
+@ 83
+@ 96
+@ 77
+QUIT
